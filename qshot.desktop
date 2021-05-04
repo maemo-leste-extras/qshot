@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Icon=qshot64
+Exec=qshot
+Name=qshot
+# translation example:
+# your app name in German locale (de)
+Name[de]=qshot

@@ -1,0 +1,47 @@
+Source: qshot
+Section: user/utilities
+Priority: optional
+Maintainer: Christian Weniger <less_to_space@web.de>
+Build-Depends: debhelper (>= 9), qtbase5-dev, qtbase5-dev-tools, qt5-qmake, qt5-default, cdbs
+Standards-Version: 3.9.6
+Homepage: 
+
+Package: qshot
+Architecture: any
+Depends: libqt5gui5, libqt5widgets5, libqt5core5a, qt5-style-plugins, ${misc:Depends}, ${shlibs:Depends}
+Description: Qt screenshot example
+ With the application the users can take a screenshot of their desktop. They are provided with a couple of options. 
+XB-Maemo-Display-Name: qshot
+XB-Maemo-Icon-26: 
+ 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
