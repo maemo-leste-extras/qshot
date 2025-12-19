@@ -1,3 +1,9 @@
+qshot (0.0.2) unstable; urgency=low
+
+  * debian/rules: use standard dh install
+
+ -- Sander <code@kroket.io>  Fri, 19 Dec 2025 09:52:28 +0000
+
 qshot (0.0.1) unstable; urgency=low
 
   * Initial Release.
