@@ -8,7 +8,7 @@ Homepage:
 
 Package: qshot
 Architecture: any
-Depends: libqt5gui5, libqt5widgets5, libqt5core5a, qt5-style-plugins, ${misc:Depends}, ${shlibs:Depends}
+Depends: libqt5gui5t64, libqt5widgets5t64, libqt5core5t64, qt5-style-plugins, ${misc:Depends}, ${shlibs:Depends}
 Description: Qt screenshot example
  With the application the users can take a screenshot of their desktop. They are provided with a couple of options. 
 XB-Maemo-Display-Name: qshot
